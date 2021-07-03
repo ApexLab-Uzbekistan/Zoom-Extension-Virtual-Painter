@@ -8,7 +8,7 @@ import handTrackingModule as htm
 ###############################################
 
 brushThickness = 10
-eraserThickness = 80
+eraserThickness = 100
 
 ###############################################
 
